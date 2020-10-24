@@ -5,7 +5,7 @@
 
 div > div > div {
 
-	border: 3px solid black;
+	border: 1px solid black;
 	position: relative;
 	background-color: #73706F;
 }
@@ -13,7 +13,7 @@ div > div > div {
 h2 {
 	text-align: center;
 	width: 150px;
-	border: 2px solid black;
+	border: 1px solid black;
 	margin: 0px 0px 10px 0px; 	
 	padding:0px;
 	position: absolute;
